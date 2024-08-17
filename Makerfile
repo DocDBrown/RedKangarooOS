@@ -1,0 +1,30 @@
+# Makefile for RedKangarooOS
+
+.PHONY: all fmt check test clippy build clean
+
+# Default target: build the project
+all: build
+
+# Format the code
+fmt:
+	cargo fmt
+
+# Check formatting
+check:
+	cargo fmt -- --check
+
+# Run linter
+clippy:
+	cargo clippy -- -D warnings
+
+# Run tests
+test:
+	cargo test
+
+# Build the project
+build:
+	cargo build
+
+# Clean the project
+clean:
+	cargo clean
