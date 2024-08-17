@@ -1,6 +1,7 @@
 [package]
-name = "RedKangarooOS"
+name = "red_kangaroo_os"
 version = "0.1.0"
+authors = ["Duncan Brown <dr.dbrown@icloud.com>"]
 edition = "2021"
 
 [dependencies]
