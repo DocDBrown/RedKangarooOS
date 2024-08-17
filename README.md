@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/build.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooOS)
 
-RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust.
+RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust. This is a long term project...
 
 ## Table of Contents
 
