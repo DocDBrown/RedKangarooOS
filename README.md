@@ -49,7 +49,7 @@ Please see our CONTRIBUTING.md. The principle of finanical justice will apply to
 
 ### Development with GitHub Codespaces
 
-click the 'Code' button to create a codespace. After making changes commit and push from codespaces to your branch on github.
+Click the 'Code' button to create a codespace. After making changes commit and push from codespaces to your branch on github.
 
 ### License
 
