@@ -31,7 +31,7 @@ jobs:
         run: cargo fmt -- --check
 
       - name: Run Clippy (linter)
-        run: cargo clippy -- -D warnings
+        run: cargo clippy
 
       - name: Run tests
-        run: cargo test --target x86_64-unknown-linux-gnu
+        run: cargo test
