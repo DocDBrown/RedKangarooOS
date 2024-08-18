@@ -19,7 +19,7 @@ clippy:
 
 # Run tests
 test:
-	cargo test
+	cargo test --features std
 
 # Build the project
 build:

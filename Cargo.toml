@@ -1,3 +1,7 @@
+# Copyright © 2024 Nox Ignis.
+# This file is part of Red Kangaroo OS Project.
+# Currently in early stages
+
 [package]
 name = "red_kangaroo_os"
 version = "0.1.0"
@@ -5,3 +9,6 @@ authors = ["Duncan Brown <dr.dbrown@icloud.com>"]
 edition = "2021"
 
 [dependencies]
+
+[dev-dependencies]
+
