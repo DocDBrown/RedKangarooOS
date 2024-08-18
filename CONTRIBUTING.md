@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to RedKangarooOS! We appreciate your interest in improving our open-source Rust-based operating system. Whether you’re here to report bugs, suggest new features, contribute code, or enhance documentation, this guide will help you get started.
 
+The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised.
+
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
