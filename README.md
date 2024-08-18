@@ -47,6 +47,10 @@ Before you can build and run RedKangarooOS, you need to install the following to
 
 Please see our CONTRIBUTING.md. The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised.
 
-### Licence
+### Development with GitHub Codespaces
+
+click the 'Code' button to create a codespace. After making changes commit and push from codespaces to your branch on github.
+
+### License
 
 Please see our LICENCE
