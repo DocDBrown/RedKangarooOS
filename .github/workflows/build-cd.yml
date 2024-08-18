@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Change to ubuntu-latest for better Docker support
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
