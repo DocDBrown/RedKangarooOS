@@ -16,7 +16,6 @@ RedKangarooOS is an open-source, Rust-based operating system designed for perfor
 - [Contributing](#contributing)
 - [Development with GitHub Codespaces](#development-with-github-codespaces)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -42,3 +41,12 @@ Before you can build and run RedKangarooOS, you need to install the following to
    ```bash
    git clone https://github.com/DocDBrown/RedKangarooOS.git
    cd RedKangarooOS
+   ```
+
+### Contributing
+
+Please see our CONTRIBUTING.md. The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised.
+
+### Licence
+
+Please see our LICENCE
