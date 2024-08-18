@@ -1,7 +1,7 @@
 # RedKangarooOS
 
 ![License](https://img.shields.io/badge/license-AGPLv3-blue)
-![Test Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml)
+![Test Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml?branch=main&label=Tests)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/build-cd.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooOS)
 
