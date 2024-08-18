@@ -2,7 +2,7 @@
 # This file is part of Red Kangaroo OS Project.
 
 [build]
-target = "x86_64-apple-darwin"
+target = "x86_64-unknown-linux-gnu"
 
 [profile.release]
 panic = "abort"
