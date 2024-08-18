@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     libssl-dev \
     pkg-config \
+    musl-tools \
     && rm -rf /var/lib/apt/lists/*
 
 # Set the working directory

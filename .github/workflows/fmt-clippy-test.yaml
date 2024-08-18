@@ -1,4 +1,3 @@
-# .github/workflows/rust.yml
 name: Format, Clippy and Test
 
 on:
@@ -11,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
@@ -21,7 +20,7 @@ jobs:
         uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
-          target: x86_64-apple-darwin
+          target: x86_64-unknown-linux-gnu
           override: true
 
       - name: Install dependencies
