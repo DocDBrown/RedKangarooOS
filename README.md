@@ -1,11 +1,11 @@
 # RedKangarooOS
 
 ![License](https://img.shields.io/badge/license-AGPLv3-blue)
-![Test Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml?branch=main&label=Tests)
+![Test Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml?branch=main&label=tests)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/build-cd.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooOS)
 
-RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust. This is a long term project...
+RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust. The first prioity is to complete the bootloader. This is a long term project and will take time to complete...
 
 Our Overview Website is at www.redkangaroo-os.com
 
