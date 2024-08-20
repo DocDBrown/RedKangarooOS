@@ -7,6 +7,8 @@
 
 RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust. The first prioity is to complete the bootloader. This is a long term project and will take time to complete...
 
+If no-one lese contributes I guarnatee 100% that I will continue and finish the project myself. I remain resolute in my decisions and maintain my principles of integrity, justice, hard work and respect for other people.
+
 Our Overview Website is at www.redkangaroo-os.com
 
 ## Table of Contents
